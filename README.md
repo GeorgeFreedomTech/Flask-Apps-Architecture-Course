@@ -12,6 +12,7 @@ This repository hosts **"Flask Mission Control: From Prototype to Production"** 
 This course is for learners who understand Python basics and are ready to build the systems that power the web. We will move beyond simple scripts to architecting the control panels, data APIs, and user interfaces for a deep-space asteroid mining mission. You will learn to think like a systems engineer, building robust, modular, and scalable web applications from the ground up.
 
 ---
+
 ### 🗺️ **Course Outline / Your Mission Itinerary:**
 
 This curriculum is structured to guide you from initial setup to a fully deployed, modular web application.
@@ -27,6 +28,7 @@ This curriculum is structured to guide you from initial setup to a fully deploye
 * **Lesson 9: Mission Launch: Deployment** - Preparing your application for the real world and deploying it to a production server.
 
 ---
+
 ### 🎯 **Learning Objectives / Mission Capabilities to Master:**
 
 Upon completing this expedition, you will be able to:
@@ -39,12 +41,15 @@ Upon completing this expedition, you will be able to:
 * **Prepare and deploy** a production-ready web application to the internet.
 
 ---
+
 ### 🎒 **Prerequisites / Pre-flight Briefing:**
 
 * A solid understanding of Python fundamentals (variables, data structures like lists and dictionaries, loops, and functions).
 * Basic knowledge of Object-Oriented Programming (OOP) concepts in Python (classes and objects).
 * Familiarity with basic HTML tags (`<h1>`, `<p>`, `<form>`, etc.).
 * An interest in building the backend systems that power the web.
+
+---
 
 ## 🧭 How to Use These Materials:
     
@@ -81,13 +86,16 @@ The lessons are provided as Jupyter Notebook (`.ipynb`) files. To use them:
 * **Educational Launchpad:** A practical, hands-on course that transforms your Python knowledge into the ability to build and deploy real-world web applications and control systems.
 * **Professional Blueprint:** A showcase of my teaching methodology for architecting mission-critical web systems, from an initial prototype to a modular, production-ready application.
 * **Mission Log:** A source of code examples and concepts for technical articles, tutorials, and professional debriefings on social media.
-    
+
+---
+
 ## 🔗 Next Steps & Connect:
 
 * Visit my website: **[https://GeorgeFreedom.com](https://GeorgeFreedom.com)**
 * Connect on LinkedIn: **[https://www.linkedin.com/in/georgefreedom/](https://www.linkedin.com/in/georgefreedom/)**
 * Let's talk: **[https://cal.com/georgefreedom](https://cal.com/georgefreedom)**
 
+---
 ## 📜 License:
 
 Copyright (c) 2025 Jiří Svoboda (George Freedom) / George Freedom Tech
