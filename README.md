@@ -89,6 +89,7 @@ If you cannot install Python locally or want to try the code quickly in your bro
 4. Paste the URL of this repository and search.
 5. Click on the notebook you want to open.
 * **Alternatively:** You can go to the Upload tab and upload the **.ipynb file** you downloaded in Part 1.
+  
 ## 🛰️ **Repository Mission Objectives:**
 
 * **Educational Launchpad:** A practical, hands-on course that transforms your Python knowledge into the ability to build and deploy real-world web applications and control systems.
